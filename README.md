@@ -1,9 +1,11 @@
-# Lucid Mind
+# Lucid Mind website
 
-Simple static website for Lucid Mind counselling in Leicester.
+Static GitHub Pages site for Lucid Mind counselling in Leicester.
 
-## GitHub Pages
+## Updating
 
-Publish the repository from the `main` branch and root (`/`).
+Edit the files locally in the cloned repository, then stage, commit and push with Git Cola.
 
-After the GitHub Pages preview works, add the custom domain `lucidmindleicester.co.uk` in the repository Pages settings and update DNS accordingly.
+## Contact form
+
+The form uses `mailto:` and opens the visitor's email application with a pre-filled message to `cecilia@lucidmindleicester.co.uk`. No form data is stored by the website.
