@@ -8,4 +8,11 @@ Edit the files locally in the cloned repository, then stage, commit and push wit
 
 ## Contact form
 
-The form uses `mailto:` and opens the visitor's email application with a pre-filled message to `cecilia@lucidmindleicester.co.uk`. No form data is stored by the website.
+The contact form submits through Formspree using the endpoint `https://formspree.io/f/mpparvra`.
+
+## Contact details
+
+- Cecilia O'Hare, MBACP
+- Mobile: 07923 051739
+- Email: cecilia@lucidmindleicester.co.uk
+- Office: 110 Granby Street, Leicester, LE1 1DL
